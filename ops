@@ -1,1 +1,1 @@
-{"version":1,"ops":[{"type":1,"author":{"id":"53ad3da547763fae221a9328d859b05041adb7d6"},"timestamp":1616205555,"metadata":{"github-id":"MDU6SXNzdWU4MzY1ODM0MDY=","github-url":"https://github.com/www-splitcells-net/net.splitcells.network/issues/24","origin":"github"},"title":"OSI: Support dry run for \"repo.process\".","message":"","files":null}]}
+{"version":1,"ops":[{"type":5,"author":{"id":"53ad3da547763fae221a9328d859b05041adb7d6"},"timestamp":1616205556,"metadata":{"github-id":"MDEyOkxhYmVsZWRFdmVudDQ0ODQ5ODc5MTU="},"added":["enhancement"],"removed":[]}]}
