@@ -4,6 +4,11 @@ This repo is a ticket system via [git-bug](https://github.com/MichaelMure/git-bu
 
 # Commands
 
+Pure git versions are documented for portability purposes,
+where git repo synchronization is concerned.
+Requiring to install and use git-bug for ticket synchronization on git level,
+creates an unreasonable software stack requirement.
+
 ## Pull git-bug data via pure git.
 * `git fetch origin 'refs/identities/*:refs/identities/*'`
 * `git fetch origin 'refs/bugs/*:refs/bugs/*'`
